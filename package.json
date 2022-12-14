@@ -1,5 +1,5 @@
 {
-  "name": "js-looping-and-iteration-looping-code-along",
+  "name": "lomayiana",
   "version": "0.1.0",
   "description": "Learn.co's introduction to looping in JavaScript.",
   "main": "index.js",
@@ -35,5 +35,8 @@
     "mocha-jsdom": "~1.1.0",
     "mocha-multi": "^1.0.1",
     "sinon": "^7.3.1"
+  },
+  "directories": {
+    "test": "test"
   }
 }
